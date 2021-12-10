@@ -1,0 +1,7 @@
+{
+  "name": "fakemsg",
+  "description": "Add a command that allows you to send a fake message from any user.",
+  "author": "creatable",
+  "file": "index.js",
+  "license": "CC0-1.0"
+}
