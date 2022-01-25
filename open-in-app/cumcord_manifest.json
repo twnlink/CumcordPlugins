@@ -1,0 +1,7 @@
+{
+   "name": "open-in-app",
+   "description": "Opens links all over the app in their respective app.",
+   "author": "eternal",
+   "file": "index.jsx",
+   "license": "Unlicensed"
+}
