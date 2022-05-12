@@ -4,7 +4,8 @@
       "links": [
          "store.steampowered.com",
          "steamcommunity.com",
-         "help.steampowered.com"
+         "help.steampowered.com",
+         "s.team"
       ],
       "identifier": "steam://openurl/"
    },
